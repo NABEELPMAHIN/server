@@ -10,7 +10,7 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
   "getOtp": {
     "status": "Success",
     "message":"Otp Sended"
