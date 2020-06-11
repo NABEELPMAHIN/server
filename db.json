@@ -14,5 +14,13 @@
   "getOtp": {
     "status": "Success",
     "message":"Otp Sended"
+  },
+  "getSuccess": {
+    "Result": "SUCCESS",
+    "Message":"Successfully Logged In."
+  },
+  "getFailed": {
+    "Result": "Failed",
+    "Message":"Incorrect User Id or password"
   }
 }
